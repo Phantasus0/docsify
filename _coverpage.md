@@ -15,4 +15,4 @@
 
 
 
-![](./_media/cover.jpg)
+![](https://s2.loli.net/2022/08/12/tVmbDR1wglEW4IK.jpg)
